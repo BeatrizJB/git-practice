@@ -1,0 +1,3 @@
+Name: Beatriz
+Age: 25
+Favorite Color: White
